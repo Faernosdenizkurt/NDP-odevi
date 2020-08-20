@@ -1,0 +1,15 @@
+C:\Users\deniz\Desktop\NDP ödevi\Otel Otomasyonu\Otel Otomasyonu\bin\Debug\Otel Otomasyonu.exe.config
+C:\Users\deniz\Desktop\NDP ödevi\Otel Otomasyonu\Otel Otomasyonu\bin\Debug\Otel Otomasyonu.exe
+C:\Users\deniz\Desktop\NDP ödevi\Otel Otomasyonu\Otel Otomasyonu\bin\Debug\Otel Otomasyonu.pdb
+C:\Users\deniz\Desktop\NDP ödevi\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel Otomasyonu.csprojAssemblyReference.cache
+C:\Users\deniz\Desktop\NDP ödevi\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel_Otomasyonu.Form3.resources
+C:\Users\deniz\Desktop\NDP ödevi\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel_Otomasyonu.Form2.resources
+C:\Users\deniz\Desktop\NDP ödevi\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel_Otomasyonu.Properties.Resources.resources
+C:\Users\deniz\Desktop\NDP ödevi\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel Otomasyonu.csproj.GenerateResource.cache
+C:\Users\deniz\Desktop\NDP ödevi\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\NDP ödevi\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel Otomasyonu.exe
+C:\Users\deniz\Desktop\NDP ödevi\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel Otomasyonu.pdb
+C:\Users\deniz\Desktop\NDP ödevi\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel_Otomasyonu.Form4.resources
+C:\Users\deniz\Desktop\NDP ödevi\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel_Otomasyonu.Yonetici_Paneli.resources
+C:\Users\deniz\Desktop\NDP ödevi\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel_Otomasyonu.Vale_İletişim.resources
+C:\Users\deniz\Desktop\NDP ödevi\Otel Otomasyonu\Otel Otomasyonu\obj\Debug\Otel_Otomasyonu.Müşteri_Panel_101.resources

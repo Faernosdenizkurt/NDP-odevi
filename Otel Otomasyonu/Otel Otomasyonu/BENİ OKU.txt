@@ -1,0 +1,24 @@
+﻿**************GİRİŞ BİLGİLERİ*************************
+Not : "Hocam normalde kullanıcıların bilgilerini güncelleme ve düzenlemek için veritabanı kullanacaktım ama proje küçük olduğu için programın içine yanımladım"
+Otel Giriş panelinde kullanıcılar sicil numaraları veya müşteriler için kart 
+numaraları kullanıcı adı kabul edilecektir ve şifreleri kendi belirlenecektir
+Yönetici girişi (k.adı admin  şifre 123)
+Resepsiyon girişi (k.adı vezne şifre 123)
+Müşteri girişi (k.adı 10100 şifre 123)
+Personel girişi (k.adı personel şifre 123)
+
+****************************************
+Eğer cihazda antivirüs programı kullanılıyorsa izin veriniz veya korumayı kaldırınız
+****************************************
+/****************************************************************************
+** SAKARYA ÜNİVERSİTESİ
+** BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
+** BİLİŞİM SİSTEMLERİ MÜHENDİSLİĞİ BÖLÜMÜ
+** NESNEYE DAYALI PROGRAMLAMA DERSİ
+** 2019-2020 YAZ DÖNEMİ
+**
+** PROJE NUMARASI.........: 01
+** ÖĞRENCİ ADI............:Deniz KURT
+** ÖĞRENCİ NUMARASI.......:b191200034
+** DERSİN ALINDIĞI GRUP...: A
+****************************************************************************/

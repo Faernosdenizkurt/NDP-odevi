@@ -1,0 +1,44 @@
+
+********************************
+19.08.2020 00:00:00
+System.Windows.Forms.RichTextBox, Text: Bu br deneme
+*********************************
+
+
+********************************
+19.08.2020 00:00:00
+System.Windows.Forms.RichTextBox, Text: Bu br deneme
+*********************************
+
+
+********************************
+19.08.2020 00:00:00
+System.Windows.Forms.RichTextBox, Text: Bu br deneme
+*********************************
+
+
+********************************
+19.08.2020 00:00:00
+System.Windows.Forms.RichTextBox, Text: Bu br deneme
+*********************************
+
+
+********************************
+19.08.2020 00:00:00
+System.Windows.Forms.RichTextBox, Text: Odalar çok soğuk
+*********************************
+
+
+********************************
+19.08.2020 00:00:00
+19.08.2020 12:26:41
+System.Windows.Forms.RichTextBox, Text: Odaya kapı çalmadan girildi
+*********************************
+
+
+********************************
+19.08.2020 00:00:00
+19.08.2020 13:07:17
+System.Windows.Forms.RichTextBox, Text: odalar çok soğuk bir çözüm bulun
+*********************************
+
